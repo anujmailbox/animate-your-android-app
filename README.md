@@ -7,6 +7,12 @@ In this course, we will start from scratch and create a material design Android 
 
 Excluding the introduction and conclusion, this repository has a directory for every lesson in this course. Each directory is named after the lesson it belongs to, and is an independent Android Studio project containing all the code written during the course, up to, and including, the lesson.
 
+## 3rd-Party Content
+
+This course uses a collection of portraits in the public domain, and one icon from Google's [material icons library](https://design.google.com/icons/) licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/).
+
+Get the course image assets here from the [images respository](https://github.com/tutsplus/animate-your-android-app-images).
+
 ------
 
 These are source files for the Tuts+ course: [Animate Your Android App][published url]
