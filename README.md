@@ -1,7 +1,9 @@
 # [Animate Your Android App][published url]
 ## Instructor: [Ashraff Hathibelagal][instructor url]
 
-In this course, we will start from scratch and create a material design Android app which has lots of animations and transitions. While doing so, we will learn how to create tween animations which can change the positions, dimensions and rotations of UI elements. We will also learn how to work with the new Android Transitions Framework to make changes from one activity to another, and changes from one view hierarchy to another more fluid and continuous.
+Animations have become an important part of Android user interfaces. Subtle, well-crafted animation is used throughout the Android OS and can make your app more engaging and dynamic. Not only that, but animations can help make your UI more intuitive, when used correctly.
+
+In this course, Envato Tuts+ instructor Ashraff Hathibelagal will show you how to start from scratch and create a material design Android app which has lots of animations and transitions. While doing so, you will learn how to create tween animations which can change the positions, dimensions and rotations of UI elements. You will also learn how to work with the new Android Transitions Framework to make changes from one activity—or view hierarchy—to another more fluid and continuous.
 
 ## Source Files Description
 
